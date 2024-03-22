@@ -8,8 +8,7 @@ let a = prompt("enter number: ");
 let p = prompt("enter power: ");
 console.log(a**p);
 
-//reverse a number
-//reverse a particular digit
+//reverse a particular digit with the given number
 let z=Number(prompt("Enter number: "));
 let rem = 0;
 while(z>0){
